@@ -276,7 +276,7 @@ a{
 .hero-section{
     margin-left: 0px;
     margin-right: 0px;
-    background: url('./Images/Hero2.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
+    background: url('Hero2.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
     height: 30em;
@@ -289,7 +289,7 @@ a{
 .hero-section_2{
     margin-left: 0px;
     margin-right: 0px;
-    background: url('./Images/hero3.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
+    background: url('hero3.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
     height: 30em;
@@ -302,7 +302,7 @@ a{
 .hero-section_3{
     margin-left: 0px;
     margin-right: 0px;
-    background: url('./Images/services.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
+    background: url('services.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
     height: 30em;
@@ -315,7 +315,7 @@ a{
 .hero-section_4{
     margin-left: 0px;
     margin-right: 0px;
-    background: url('./Images/portfolio.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
+    background: url('portfolio.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
     height: 30em;
@@ -328,7 +328,7 @@ a{
 .hero-section_5{
     margin-left: 0px;
     margin-right: 0px;
-    background: url('./Images/Contact.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
+    background: url('Contact.jpg'),  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)) 10% no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
     height: 25em;
