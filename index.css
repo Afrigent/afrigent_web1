@@ -428,6 +428,8 @@ p{
 .container {
   display: flex;
   width: 100%;
+  max-width: 1200px;
+  margin: auto;
 }
 
 .column-1 {
@@ -457,6 +459,8 @@ p{
 .container_2 {
   display: flex;
   width: 100%;
+  max-width: 1200px;
+  margin: auto;
 }
 .box_2{
     /* background-color: #ffffff; */
