@@ -484,6 +484,8 @@ p{
     background-color: #e7e6e6;
     padding: 0 3rem;
     text-align: center;
+    max-width: 1200px;
+    margin: auto;
 }
 .container_2 {
     display: flex;
